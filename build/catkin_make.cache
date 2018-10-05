@@ -1,0 +1,2 @@
+gui_pkg
+-DCATKIN_DEVEL_PREFIX=/home/durouas2/catkin_ws1/devel -DCMAKE_INSTALL_PREFIX=/home/durouas2/catkin_ws1/install -G Unix Makefiles
